@@ -8,4 +8,4 @@
 * Add your routs to maps_folder and run application => ``` python main.py ``
 
 Robots will walking on yours maps
-![alt sample] (http://killpage.hopto.org/wp-content/uploads/2018/11/Screen-Shot-2018-11-16-at-10.26.57-PM.png)
+<p align="center"><img src="http://killpage.hopto.org/wp-content/uploads/2018/11/Screen-Shot-2018-11-16-at-10.26.57-PM.png" /></p>
