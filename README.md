@@ -5,6 +5,6 @@
 * Install requirements => ```pip install -r requirements.txt```
 * Install MongoDB
 * Update settings.py ```MONGO_URI = ```
-* Add your routs to maps_folder and run application => ``` python main.py ``
+* Add your routs to maps_folder and run application => ``` python main.py ```
 
 Robots will walking on yours maps
